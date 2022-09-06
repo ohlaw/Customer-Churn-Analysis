@@ -12,6 +12,9 @@ The very first step in this endeavour is to single out the warning signs that a 
 
 A straightforward approach to solving problems like this is using modern Machine Learning techniques. In this report, I will guide the reader through the development of a classification model that enables Model Fitness to predict the probability of a customer to churn in the upcoming month. In the next step, I will divide our customers into five clusters which will allow us to develop group-based countermeasures based on the customers' specific risk profiles. Finally, I will present a set of possible actions that can be taken to reduce customer churn to a minimum.
 
+**Data Source:** [Practicum by Yandex.](https://www.practicum100.com/)  
+I do not have the permission to share this dataset.
+
 ## Data Description
 `Churn` — the fact of churn for the month in question  
 Current dataset fields: User data for the preceding month  
