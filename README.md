@@ -1,6 +1,4 @@
-# Predicting-customer-churn-for-Model-Fitness
-
-## Project Description
+# Project Description
 Model Fitness, a gym lost 26.5% of its customers in the present month. If the gym don't balance out this share by acquiring new customers, the company will become less profitable. As such, it is a no-brainer to develop strategies to prevent customer churn as well as possible. 
 
 Model Fitness has digitized a number of its customer profiles. Your task as a data analyst is to:
