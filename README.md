@@ -13,16 +13,5 @@ A straightforward approach to solving problems like this is using modern Machine
 **Data Source:** [Practicum by Yandex.](https://www.practicum100.com/)  
 I do not have the permission to share this dataset.
 
-## Data Description
-`Churn` — the fact of churn for the month in question  
-Current dataset fields: User data for the preceding month  
-`gender`  
-`Near_Location` — whether the user lives or works in the neighborhood where the gym is located  
-`Partner` — whether the user is an employee of a partner company (the gym has partner companies whose employees get discounts; in those cases the gym stores information on customers' employers)  
-`Promo_friends` — whether the user originally signed up through a "bring a friend" offer (they used a friend's promo code when paying for their first membership)  
-`Phone` — whether the user provided their phone number  
-`Age`  
-`Lifetime` — the time (in months) since the customer first came to the gym
-
 ## Libraries Used
 Pandas, Numpy, Matplotlib, Seaborn, Scipy, Sklearn, LogisticRegression, RandomForestClassifier, GradientBoostingClassifier, KMeans, Scikitplot 
